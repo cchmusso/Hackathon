@@ -166,15 +166,17 @@ We suggest that you look for the following qualities in your team:
 ### Agenda
 
 
-
-| **Friday** ||
+**Friday**
+| | |
 |:------------| ------- |
 | 9h – 10h15 |  Introduction | 
 | 10h30 – open ended |  Start of hackathon      |
 | 11h – 15h |  Food (ongoing) |
 | 19h – 22h |  Bar opens & Apéro  |
 
-|**Saturday** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+**Saturday** 
+
+| | |
 |:------------| ------- |
 | 10h – 10h30 	| Welcome breakfast 	|
 | 10h30 – 12h 	| Presentation of results |
