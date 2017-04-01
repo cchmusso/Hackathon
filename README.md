@@ -164,7 +164,12 @@ We suggest that you look for the following qualities in your team:
 
 
 ### Agenda
-
+th:empty {
+  font-size: 0px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
 
 **Friday**
 
@@ -184,7 +189,4 @@ We suggest that you look for the following qualities in your team:
 | 19h – 22h 	| Wrap up 	|
 
 
-| | | |
-|-|-|-|
-| Normal Key| Value1 |
-|__BoldKey__| Value2 |
+
