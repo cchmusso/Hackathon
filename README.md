@@ -167,8 +167,9 @@ We suggest that you look for the following qualities in your team:
 
 
 **Friday**
+
 | | |
-|:------------| ------- |
+| - | - |
 | 9h – 10h15 |  Introduction | 
 | 10h30 – open ended |  Start of hackathon      |
 | 11h – 15h |  Food (ongoing) |
@@ -177,7 +178,13 @@ We suggest that you look for the following qualities in your team:
 **Saturday** 
 
 | | |
-|:------------| ------- |
+| - | - |
 | 10h – 10h30 	| Welcome breakfast 	|
 | 10h30 – 12h 	| Presentation of results |
 | 19h – 22h 	| Wrap up 	|
+
+
+| | | |
+|-|-|-|
+| Normal Key| Value1 |
+|__BoldKey__| Value2 |
