@@ -104,9 +104,9 @@ All code used must be open sourced. It can be existing code, new code written fo
 
 ##### Data Visualisation (options available)
 * QlikSense
-* Tableau [trial available](https://www.tableau.com/academic/students)
-* GapMinder [link](http://www.gapminder.org/)
-* PowerBI [link](https://powerbi.microsoft.com/en-us/)
+* Tableau [(trial available)](https://www.tableau.com/academic/students)
+* GapMinder [(link)](http://www.gapminder.org/)
+* PowerBI [(link)](https://powerbi.microsoft.com/en-us/)
 
 
 ##### Language (options available)
@@ -116,8 +116,8 @@ All code used must be open sourced. It can be existing code, new code written fo
 * SQL – Backend MS SQLServer  
   
 
-**Github** to download dataset [link](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data)  
-**Slack** to bring communication together so that people can share their insights [link](https://deloittehackathon.slack.com/)
+**Github** to download dataset [(link)](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data)  
+**Slack** to bring communication together so that people can share their insights [(link)](https://deloittehackathon.slack.com/)
 
 
 ### Evaluations
