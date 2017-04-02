@@ -1,4 +1,4 @@
-# Hackathon
+# Analytics Challenge
 
 ## Situation
 
@@ -165,20 +165,16 @@ We suggest that you look for the following qualities in your team:
 
 ### Agenda
 
+| **Friday** | |
+|:------------| ------- |
+| 9h – 10h15 |  Introduction | 
+| 10h30 – open ended |  Start of hackathon  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 11h – 15h |  Food (ongoing) |
+| 19h – 22h |  Bar opens & Apéro  |
 
-**Friday**
-
-
-9h – 10h15  &nbsp;&nbsp; Introduction   
-10h30 – open ended  &nbsp;&nbsp; Start of hackathon    
-11h – 15h &nbsp;&nbsp; Food (ongoing)    
-19h – 22h &nbsp;&nbsp; Bar opens & Apéro   
-
-**Saturday** 
-
-10h – 10h30 &nbsp;&nbsp; Welcome breakfast 	  
-10h30 – 12h &nbsp;&nbsp; Presentation of results   
-19h – 22h &nbsp;&nbsp; Wrap up 	  
-
-
+|**Saturday** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||
+|:------------| ------- |
+| 10h – 10h30 	| Welcome breakfast 	|
+| 10h30 – 12h 	| Presentation of results |
+| 19h – 22h 	| Wrap up 	|
 
