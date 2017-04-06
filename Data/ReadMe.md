@@ -10,8 +10,7 @@ The table shows payments made by the NGO for each countries and programmes.
 
 ### WHO data
 
-[**WHO_Coverage_estimates.csv**](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/WHO_Coverage_estimates.csv)     	
-
+[**WHO_Coverage_estimates.csv**](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/WHO_Coverage_estimates.csv)     
 Coverage by vaccines for each country 1980-2015
 
 ---  
