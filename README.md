@@ -1,4 +1,4 @@
-# Analytics Challenge
+﻿# Analytics Challenge
 
 ## Situation
 
@@ -54,8 +54,13 @@ Our NGO has approached you, a team of independent analytics consultants, to help
 ### Data sources
 You will be relying on data sets that are open to the public – and are you free to add your own data (if openly available)
 
-##### NGO data
-* Detailed information on NGO’s disbursement from 2000 to 2016
+##### NGO data  
+* [Detailed information on NGO’s disbursement from 2000 to 2016](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/NGO_DataDisbursement.csv)
+
+
+##### WHO data  
+* [Coverage by vaccines for each country 1980-2015](https://github.com/DeloitteHackathon/AnalyticsChallenge/Data/WHO_Coverage_estimates.csv)  
+
 
 ##### World bank data
 * Birth rate, death rate, life expectancy, fertility rate, …
@@ -64,11 +69,14 @@ You will be relying on data sets that are open to the public – and are you fre
 * GDP, poverty headcount
 * Air pollution, improved sanitation facilities, water source
 
-##### WHO data
-* Coverage by vaccines for each country 1980-2015
-* Number of reported cases of cholera, tuberculosis, …
-* Ideas for supplementary data:
-* Forecasts of epidemics, forecast of destabilizing elections, GDP growth (meaning country can found own effort), data on innovations for new ways of delivering vaccines in difficult circumstances etc.
+
+Ideas for supplementary data:
+* Number of reported cases of Haemophilus influenzae Disease (Including HiB)  
+* Forecasts of epidemics  
+* Forecast of destabilizing elections
+* GDP growth (meaning country can found own effort)
+* Data on innovations for new ways of delivering vaccines in difficult circumstances 
+* etc.
 
 
 
@@ -78,6 +86,7 @@ Do not get overwhelmed by the data and remember to enjoy yourselves!
 * Half the work is formalizing the problem. You will have to make assumptions. Make sure you explain why you made them.
 * You don’t have much time so keep your analysis simple. You will need to discard many of the variables in the various data sets we give you.
 * We are dealing with a serious topic but after all this is just a hackathon. Try to wow us and your competitors with cool visualisations and solid analysis. (Remember however: the recommendation is the final product of your work.)
+* You can find inspiration from this talk on the importance of visualizing data [here](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
 
 
 ### Presentation
